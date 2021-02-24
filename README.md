@@ -15,7 +15,7 @@
 - │──── multipro_ui.py             #UI界面
 - │──── public.py                  #公共模块,包含所有基础模块,如移动,点击,搜索背包/仓库等
 - ├─front                       #字体文件夹
-- &nbsp &nbsp &nbsp &nbsp └──── dm_soft.txt            #基础字体
+- &nbsp; &nbsp; &nbsp; &nbsp; └──── dm_soft.txt            #基础字体
 -    │──── dm_soft_for_intxy.txt  #识别坐标专用字体
 -    └──── item_level.txt        #识别道具专用字体
 - └─image                       #识图专用文件夹
